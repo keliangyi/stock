@@ -1,1 +1,5 @@
-/config
+**/.vscode
+**/.ipynb_checkpoints
+
+**/config.py
+**/__pycache__/
